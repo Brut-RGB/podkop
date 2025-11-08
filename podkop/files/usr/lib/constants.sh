@@ -50,8 +50,8 @@ SB_REJECT_RULE_TAG="reject-rule-tag"
 SB_CLASH_API_CONTROLLER="0.0.0.0:9090"
 
 ## Lists
-GITHUB_RAW_URL="https://raw.githubusercontent.com/itdoginfo/allow-domains/main"
-SRS_MAIN_URL="https://github.com/itdoginfo/allow-domains/releases/latest/download"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/Brut-RGB/allow-domains/main"
+SRS_MAIN_URL="https://github.com/Brut-RGB/allow-domains/releases/latest/download"
 DOMAINS_RU_INSIDE="${GITHUB_RAW_URL}/Russia/inside-dnsmasq-nfset.lst"
 DOMAINS_RU_OUTSIDE="${GITHUB_RAW_URL}/Russia/outside-dnsmasq-nfset.lst"
 DOMAINS_UA="${GITHUB_RAW_URL}/Ukraine/inside-dnsmasq-nfset.lst"
